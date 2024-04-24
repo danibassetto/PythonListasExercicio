@@ -1,0 +1,4 @@
+Hortelino / 45.678653 / 0.01 %
+Pernalonga / 785.456678 / 0.16 %
+PapaLéguas / 230.943086 / 0.05 %
+Total de uso: 1062.078417 megabytes = 0.21 % de uso do total
